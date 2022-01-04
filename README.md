@@ -17,7 +17,9 @@ Project for registration/editing/deletion and listing of courses
 ## Starting
     With all the prerequisites installed, open the project in VsCode or your preferred editor, run the command 
     to install all packages in the case of VsCode next to NodeJs will be npm install or yarn install, after all 
-    the dependencies installed run the command ng serve, Open the terminal in the Curse-Manager-Serve folder and execute the command: node serve.js, with that we       will have the front and back of the running application, just open the application in your browser as locahost on port 4200 ex: localhost: 4200
+    the dependencies installed run the command ng serve, Open the terminal in the Curse-Manager-Serve folder and 
+    execute the command: node serve.js, with that we will have the front and back of the running application, just 
+    open the application in your browser as locahost on port 4200 ex: localhost: 4200
     
 ## Built with
     NodeJs in the back-end
